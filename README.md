@@ -89,7 +89,3 @@ The Insurance Management System is a software application designed for an insura
 
 ## Setup and Usage
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/insurance-management-system.git
